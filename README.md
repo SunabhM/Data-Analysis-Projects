@@ -2,7 +2,7 @@
 Projects on data analysis
 
 
-## [Github Topics Web Scraping](/Web Scraping)
+## [Github Topics Web Scraping](https://github.com/SunabhM/Data-Analysis-Projects/tree/main/Web%20Scraping)
 - Used the BeautifulSoup, Requests, Pandas and OS module to extract the github’s topics page(https://github.com/topics) and process all the topics in a separate CSV.
 - Extracted list of topics from the topics page, list of top repositories from the individual topic pages, Created a CSV of the top repositories for the topic and created another csv to store the topic urls to sync the latest topics in future.
 - Pushed the code to git repo for version controlling.
